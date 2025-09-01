@@ -2,10 +2,10 @@
 ## Análise sobre preços de aluguéis de imóveis na cidade de São Paulo
 
 #### Membros do Grupo
-##### Julia Petra T. Chaves     RA: 10746236
-##### Leandro
-##### Murilo Freitas Rodrigues  RA: 10370251
-##### Thalles Rodrigues         RA: 10733156
+Julia Petra T. Chaves     RA: 10746236
+Leandro
+Murilo Freitas Rodrigues  RA: 10370251
+Thalles Rodrigues         RA: 10733156
 
 ### Objetivo do Projeto
 Esse projeto visa analisar os preços dos aluguéis de imóveis na cidade de São Paulo. Os dados extraídos foram retirados da plataforma QuintoAndar.
