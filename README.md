@@ -8,12 +8,15 @@ Murilo Freitas Rodrigues RA: 10370251 \
 Thalles Rodrigues        RA: 10733156
 
 ### Sumário
-1. Introdução
-2. Objetivos
-3. Metodologia 
-4. Resultados
-5. Discussão 
-6. Conclusão
+1. Introdução…………………………………………………………….................. 2
+2. Objetivos……………………………………………………………….................3
+3. Justificativa………………………………………………………….....................4
+4. Cronograma de atividades……………………………………………………....5
+5. Definição da empresa…………………………………………………………….6
+6. Problema da empresa…………………………………………………………….7
+7. Definição do Dataset......................................................................................9
+8. Definição dos Metadados...............................................................................10
+9. Links dos dados e respositório.......................................................................11
 
 ### Objetivo do Projeto
 Esse projeto visa analisar as vendas de uma cafeteria, sugerindo insights para aumentar receita, otimizar operações como escala, promoções de meio de semana, precificação tátil por horário; conferindo a sazonalidade, variação mensal, ranking de produtos mais vendidos, sugestões de preços e meios para a fidelização do cliente.
