@@ -1,5 +1,5 @@
 #   __Projeto Aplicado I__
-## Análise sobre preços de aluguéis de imóveis na cidade de São Paulo
+## O CONJUNTO DE DADOS DE TRANSAÇÕES DE VENDAS DE CAFÉ
 
 #### Membros do Grupo
 Julia Petra T. Chaves    RA: 10746236 \
