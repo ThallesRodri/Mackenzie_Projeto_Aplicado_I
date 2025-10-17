@@ -100,135 +100,135 @@ The purpose of this project is to analyze the sales data of a coffee shop, with 
 
 #
 
-# **GLOSSÁRIO**
+## **GLOSSÁRIO**
 
-# • Análise Descritiva
+## • Análise Descritiva
 
-# Conjunto de técnicas estatísticas utilizadas para sumarizar e descrever as características principais de um conjunto de dados, por meio de medidas como média, mediana, desvio padrão e gráficos
+## Conjunto de técnicas estatísticas utilizadas para sumarizar e descrever as características principais de um conjunto de dados, por meio de medidas como média, mediana, desvio padrão e gráficos
 
-# • Análise Exploratória de Dados (AED)
+## • Análise Exploratória de Dados (AED)
 
-# Etapa inicial do processo analítico voltada à compreensão, limpeza e visualização dos dados, com o objetivo de identificar padrões, anomalias, tendências e relações entre variáveis
+## Etapa inicial do processo analítico voltada à compreensão, limpeza e visualização dos dados, com o objetivo de identificar padrões, anomalias, tendências e relações entre variáveis
 
-# • Anonimização
+## • Anonimização
 
-# Processo de remoção de informações que possam identificar indivíduos ou empresas, garantindo a privacidade e conformidade com legislações como a LGPD
+## Processo de remoção de informações que possam identificar indivíduos ou empresas, garantindo a privacidade e conformidade com legislações como a LGPD
 
-# • Base de Dados (Dataset)
+## • Base de Dados (Dataset)
 
-# Conjunto estruturado de informações coletadas e organizadas para análise. Neste estudo, refere-se aos registros de vendas da cafeteria, incluindo data, horário, tipo de café e valor das transações
+## Conjunto estruturado de informações coletadas e organizadas para análise. Neste estudo, refere-se aos registros de vendas da cafeteria, incluindo data, horário, tipo de café e valor das transações
 
-# • Categorização
+## • Categorização
 
-# Classificação de variáveis ou registros em grupos ou categorias, como períodos do dia (manhã, tarde, noite) ou tipos de café
+## Classificação de variáveis ou registros em grupos ou categorias, como períodos do dia (manhã, tarde, noite) ou tipos de café
 
-# • Coffeeshop Analytics (Análise de Cafeteria)
+## • Coffeeshop Analytics (Análise de Cafeteria)
 
-# Aplicação de métodos quantitativos e estatísticos para compreender o desempenho de uma cafeteria em termos de vendas, comportamento do consumidor e eficiência operacional
+## Aplicação de métodos quantitativos e estatísticos para compreender o desempenho de uma cafeteria em termos de vendas, comportamento do consumidor e eficiência operacional
 
-# • CSV (Comma-Separated Values)
+## • CSV (Comma-Separated Values)
 
-# Formato de arquivo utilizado para armazenar dados tabulares, onde cada linha representa um registro e cada coluna é separada por vírgulas
+## Formato de arquivo utilizado para armazenar dados tabulares, onde cada linha representa um registro e cada coluna é separada por vírgulas
 
-# • Dados Consistentes
+## • Dados Consistentes
 
-# Registros que mantêm coerência lógica e formato correto em relação às variáveis analisadas
+## Registros que mantêm coerência lógica e formato correto em relação às variáveis analisadas
 
-# • Dados Inconsistentes
+## • Dados Inconsistentes
 
-# Informações que apresentam erros de preenchimento, valores fora do padrão esperado ou incompatibilidades lógicas entre variáveis
+## Informações que apresentam erros de preenchimento, valores fora do padrão esperado ou incompatibilidades lógicas entre variáveis
 
-# • Data Cleaning (Limpeza de Dados)
+## • Data Cleaning (Limpeza de Dados)
 
-# Processo de tratamento dos dados para eliminar erros, duplicatas e valores nulos, garantindo a qualidade e integridade das informações analisadas
+## Processo de tratamento dos dados para eliminar erros, duplicatas e valores nulos, garantindo a qualidade e integridade das informações analisadas
 
-# • Dataset Público (Kaggle)
+## • Dataset Público (Kaggle)
 
-# Fonte de dados aberta e gratuita, amplamente utilizada em pesquisas e projetos de ciência de dados. O dataset utilizado neste estudo foi obtido da plataforma Kaggle
+## Fonte de dados aberta e gratuita, amplamente utilizada em pesquisas e projetos de ciência de dados. O dataset utilizado neste estudo foi obtido da plataforma Kaggle
 
-# • Desvio Padrão
+## • Desvio Padrão
 
-# Medida estatística que indica o grau de dispersão dos valores em relação à média. Quanto maior o desvio padrão, maior a variabilidade dos dados
+## Medida estatística que indica o grau de dispersão dos valores em relação à média. Quanto maior o desvio padrão, maior a variabilidade dos dados
 
-# • Estatística Descritiva
+## • Estatística Descritiva
 
-# Ramo da estatística que se ocupa de organizar, resumir e descrever os dados de uma amostra ou população
+## Ramo da estatística que se ocupa de organizar, resumir e descrever os dados de uma amostra ou população
 
-# • Insight
+## • Insight
 
-# Conclusão ou descoberta obtida a partir da análise dos dados, capaz de orientar decisões estratégicas e operacionais
+## Conclusão ou descoberta obtida a partir da análise dos dados, capaz de orientar decisões estratégicas e operacionais
 
-# • LGPD (Lei Geral de Proteção de Dados Pessoais)
+## • LGPD (Lei Geral de Proteção de Dados Pessoais)
 
-# Legislação brasileira que regula o tratamento de dados pessoais, garantindo a privacidade e proteção das informações de indivíduos
+## Legislação brasileira que regula o tratamento de dados pessoais, garantindo a privacidade e proteção das informações de indivíduos
 
-# • Métrica de Desempenho
+## • Métrica de Desempenho
 
-# Indicador quantitativo utilizado para avaliar o resultado de uma operação, como ticket médio, receita total ou volume de vendas
+## Indicador quantitativo utilizado para avaliar o resultado de uma operação, como ticket médio, receita total ou volume de vendas
 
-# • Normalização de Dados
+## • Normalização de Dados
 
-# Padronização de formatos e unidades de medida em um conjunto de dados, facilitando a comparação e a consistência entre registros
+## Padronização de formatos e unidades de medida em um conjunto de dados, facilitando a comparação e a consistência entre registros
 
-# • Outliers
+## • Outliers
 
-# Valores que se desviam significativamente do padrão geral dos dados, podendo indicar erros de medição ou fenômenos excepcionais
+## Valores que se desviam significativamente do padrão geral dos dados, podendo indicar erros de medição ou fenômenos excepcionais
 
-# • Pipeline de Dados
+## • Pipeline de Dados
 
-# Sequência estruturada de etapas para processamento de dados, desde a coleta e limpeza até a análise e visualização
+## Sequência estruturada de etapas para processamento de dados, desde a coleta e limpeza até a análise e visualização
 
-# • Python
+## • Python
 
-# Linguagem de programação amplamente utilizada em ciência de dados, estatística e automação de processos analíticos
+## Linguagem de programação amplamente utilizada em ciência de dados, estatística e automação de processos analíticos
 
-# • Pandas
+## • Pandas
 
-# Biblioteca da linguagem Python destinada à manipulação e análise de dados em formato de tabelas (DataFrames)
+## Biblioteca da linguagem Python destinada à manipulação e análise de dados em formato de tabelas (DataFrames)
 
-# • PySpark
+## • PySpark
 
-# Ferramenta baseada no Apache Spark usada para processar grandes volumes de dados de forma distribuída e eficiente
+## Ferramenta baseada no Apache Spark usada para processar grandes volumes de dados de forma distribuída e eficiente
 
-# • Quantitativo (Método)
+## • Quantitativo (Método)
 
-# Abordagem de pesquisa que utiliza dados numéricos e técnicas estatísticas para testar hipóteses e identificar padrões
+## Abordagem de pesquisa que utiliza dados numéricos e técnicas estatísticas para testar hipóteses e identificar padrões
 
-# • Receita Total
+## • Receita Total
 
-# Soma dos valores obtidos em todas as transações de venda analisadas no período estudado
+## Soma dos valores obtidos em todas as transações de venda analisadas no período estudado
 
-# • Sazonalidade
+## • Sazonalidade
 
-# Variações previsíveis e recorrentes nas vendas ao longo do tempo, geralmente associadas a fatores climáticos, culturais ou de comportamento do consumidor
+#### Variações previsíveis e recorrentes nas vendas ao longo do tempo, geralmente associadas a fatores climáticos, culturais ou de comportamento do consumidor
 
-# • Significância Estatística
+## • Significância Estatística
 
-# Medida que indica a probabilidade de que um resultado obtido na análise dos dados não tenha ocorrido por acaso
+## Medida que indica a probabilidade de que um resultado obtido na análise dos dados não tenha ocorrido por acaso
 
-# • Teste ANOVA (Análise de Variância)
+## • Teste ANOVA (Análise de Variância)
 
-# Método estatístico utilizado para comparar médias entre três ou mais grupos e identificar se há diferenças significativas entre eles
+## Método estatístico utilizado para comparar médias entre três ou mais grupos e identificar se há diferenças significativas entre eles
 
-# • Teste de Kruskal-Wallis
+## • Teste de Kruskal-Wallis
 
-# Teste estatístico não paramétrico utilizado para comparar grupos independentes quando os dados não seguem uma distribuição normal
+## Teste estatístico não paramétrico utilizado para comparar grupos independentes quando os dados não seguem uma distribuição normal
 
-# • Ticket Médio
+## • Ticket Médio
 
-# Valor médio gasto por cliente em cada transação. É obtido pela divisão da receita total pelo número de vendas no período analisado
+## Valor médio gasto por cliente em cada transação. É obtido pela divisão da receita total pelo número de vendas no período analisado
 
-# • Upsell e Cross-sell
+## • Upsell e Cross-sell
 
-# Estratégias comerciais que buscam aumentar o valor médio das vendas, oferecendo produtos complementares (cross-sell) ou versões superiores do mesmo produto (upsell)
+## Estratégias comerciais que buscam aumentar o valor médio das vendas, oferecendo produtos complementares (cross-sell) ou versões superiores do mesmo produto (upsell)
 
-# • Visualização de Dados
+## • Visualização de Dados
 
-# Uso de representações gráficas - como gráficos, tabelas e dashboards - para facilitar a interpretação de informações complexas
+## Uso de representações gráficas - como gráficos, tabelas e dashboards - para facilitar a interpretação de informações complexas
 
-# **Capítulo 1: ponto de partida**
+##  **Capítulo 1: ponto de partida**
 
-# **INTRODUÇÃO**
+#### **INTRODUÇÃO**
 
 O café ocupa um espaço de grande relevância na cultura de consumo mundial, configurando-se não apenas como uma das bebidas mais populares, mas também como importante fonte de receita para inúmeras cafeterias. No atual cenário de crescente competitividade do setor de alimentos e bebidas, compreender os padrões de compra e o comportamento dos consumidores torna-se um diferencial estratégico para a manutenção e expansão dos negócios. A análise criteriosa dessas informações possibilita não apenas otimizar o portfólio de produtos, mas também aprimorar o planejamento de estoques, direcionar campanhas promocionais e maximizar os lucros por meio de decisões fundamentadas em dados.
 
